@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0](https://github.com/borjapazr/express-typescript-skeleton/compare/v1.0.1...v1.1.0) (2022-02-12)
+
+### Features
+
+- add Awilix ([900ffc4](https://github.com/borjapazr/express-typescript-skeleton/commit/900ffc4434a5966e0cee4b428b81fda3ad3faaca))
+- add Awilix ([8d5091a](https://github.com/borjapazr/express-typescript-skeleton/commit/8d5091a7933373849a51a2c8efba3fa09b3f21a7))
+- add Prisma ([7e24dd1](https://github.com/borjapazr/express-typescript-skeleton/commit/7e24dd1cc29e6858547a63067e62d5d28dd137b4))
+
+### Bug Fixes
+
+- fix typo in CI workflow definition ([6f9e074](https://github.com/borjapazr/express-typescript-skeleton/commit/6f9e074d8e5ff504ef5f65feda3340f0986cc5c9))
+- improve eslint tests override section ([0a9e3b8](https://github.com/borjapazr/express-typescript-skeleton/commit/0a9e3b8d7dbedee32cd100dd77c1079b5f3de502))
+
+### Code Refactoring
+
+- improve Makefile and add documentation on it ([5bb238a](https://github.com/borjapazr/express-typescript-skeleton/commit/5bb238ae1c9a24ef2f276ba87dfb2eef7430632d))
+- improve Makefile help rule ([10d19ea](https://github.com/borjapazr/express-typescript-skeleton/commit/10d19ea347f05b67233a4c3020131c9131d94ebb))
+
+### Docs
+
+- improve documentation and todo's ([18ed2e6](https://github.com/borjapazr/express-typescript-skeleton/commit/18ed2e6a9352f50a386408994d9e76aa686f1c42))
+
+### Others
+
+- **barrel:** add barrel files ([73c5f5f](https://github.com/borjapazr/express-typescript-skeleton/commit/73c5f5fe346731fff1dba6374d849929f2e03516))
+- **deps:** update dependencies ([c6a841c](https://github.com/borjapazr/express-typescript-skeleton/commit/c6a841c62ff211addedd47ef712f65935d5cd1a4))
+- **deps:** update dependencies ([dd99013](https://github.com/borjapazr/express-typescript-skeleton/commit/dd9901376dbffd753bd99e7c82a48b8ac6ab781d))
+- **deps:** update dependencies and add .ncurc.js ([a386024](https://github.com/borjapazr/express-typescript-skeleton/commit/a386024776861f673d8dc7827f69da12d2de2476))
+- sync package.json and package-lock.json ([22a85f7](https://github.com/borjapazr/express-typescript-skeleton/commit/22a85f7b868e182a23c6aef70684fc54037180e3))
+
 ### [1.0.1](https://github.com/borjapazr/express-typescript-skeleton/compare/v1.0.0...v1.0.1) (2021-11-23)
 
 ### Bug Fixes
